@@ -16,8 +16,13 @@ $ python gan.py [parameters]
 
 #### Parameters:
 '-mean'     : Mean of target gaussian (float)
+
 '-std'      : Standard Deviation of Target Gaussian (float)
+
 '-hneurons' : Number of hidden layer neurons to use (int)
+
 '-epoch'    : Number of epochs to train (int)
+
 '-minbatch' : Size of batch to train (int)
+
 '-sample'   : Size of points to sample from true distribution (int)
