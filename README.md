@@ -30,4 +30,6 @@ $ python gan.py [parameters]
 '-sample'   : Size of points to sample from true distribution (int)
 
 ## Example Output:
-![Picture of GAN output](https://github.com/ashutoshkrjha/Generative-Adversarial-Networks-Tensorflow/blob/master/mean5_std1.jpg?raw=true "Output of GAN after 1000 epochs on a mean = 5 sigma = 1 gaussian")
+![Picture of GAN output](https://github.com/ashutoshkrjha/Generative-Adversarial-Networks-Tensorflow/blob/master/mean5_std1.jpg?raw=true )
+
+Figure 1: Output of GAN after 1000 epochs on a mean = 5 sigma = 1 gaussian
